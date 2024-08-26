@@ -1,4 +1,4 @@
-# Adopt A Pet
+# adoptAPet
 
 🐾 React Native + Expo App
 
